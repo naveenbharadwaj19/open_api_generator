@@ -47,8 +47,10 @@ skills_openapi_generator/
 ## Snapshots 📸
 
 ### Skills Screen
-![Skills Screen](path_to_your_screenshot_of_skills_screen)
+![Skills screen](https://github.com/user-attachments/assets/04b00580-eed2-4cc8-b553-b870f6e798ab)
+
+
 
 ### Pets Screen
-![Pets Screen](path_to_your_screenshot_of_pets_screen)
-```
+![pet screen](https://github.com/user-attachments/assets/6c9b7a83-5c31-4870-8476-01815e8874df)
+![pet screen 2](https://github.com/user-attachments/assets/2bfa5e21-2026-4e11-87c4-89f808ccf209)
